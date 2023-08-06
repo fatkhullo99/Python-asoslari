@@ -1,0 +1,2 @@
+# Python-asoslari
+Dars
